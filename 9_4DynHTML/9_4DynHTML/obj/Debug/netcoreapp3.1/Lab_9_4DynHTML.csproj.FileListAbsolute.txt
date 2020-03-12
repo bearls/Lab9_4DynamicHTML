@@ -1,0 +1,11 @@
+D:\Users\bearls\source\repos\9_4DynHTML\9_4DynHTML\bin\Debug\netcoreapp3.1\Lab_9_4DynHTML.exe
+D:\Users\bearls\source\repos\9_4DynHTML\9_4DynHTML\bin\Debug\netcoreapp3.1\Lab_9_4DynHTML.deps.json
+D:\Users\bearls\source\repos\9_4DynHTML\9_4DynHTML\bin\Debug\netcoreapp3.1\Lab_9_4DynHTML.runtimeconfig.json
+D:\Users\bearls\source\repos\9_4DynHTML\9_4DynHTML\bin\Debug\netcoreapp3.1\Lab_9_4DynHTML.runtimeconfig.dev.json
+D:\Users\bearls\source\repos\9_4DynHTML\9_4DynHTML\bin\Debug\netcoreapp3.1\Lab_9_4DynHTML.dll
+D:\Users\bearls\source\repos\9_4DynHTML\9_4DynHTML\bin\Debug\netcoreapp3.1\Lab_9_4DynHTML.pdb
+D:\Users\bearls\source\repos\9_4DynHTML\9_4DynHTML\obj\Debug\netcoreapp3.1\Lab_9_4DynHTML.csprojAssemblyReference.cache
+D:\Users\bearls\source\repos\9_4DynHTML\9_4DynHTML\obj\Debug\netcoreapp3.1\Lab_9_4DynHTML.AssemblyInfoInputs.cache
+D:\Users\bearls\source\repos\9_4DynHTML\9_4DynHTML\obj\Debug\netcoreapp3.1\Lab_9_4DynHTML.AssemblyInfo.cs
+D:\Users\bearls\source\repos\9_4DynHTML\9_4DynHTML\obj\Debug\netcoreapp3.1\Lab_9_4DynHTML.dll
+D:\Users\bearls\source\repos\9_4DynHTML\9_4DynHTML\obj\Debug\netcoreapp3.1\Lab_9_4DynHTML.pdb
